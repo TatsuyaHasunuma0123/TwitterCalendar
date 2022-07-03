@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center">
+
+        <soup.neumorphism.NeumorphCardView
+            android:id="@+id/pressedNeumorphView"
+            style="@style/Widget.Neumorph.CardView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:neumorph_shapeType="pressed"
+            app:neumorph_shapeAppearance="@style/CustumShapeAppearence">
+
+            <TextView
+                android:id="@+id/pressedLayerDateText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+        </soup.neumorphism.NeumorphCardView>
+
+        <soup.neumorphism.NeumorphCardView
+            android:id="@+id/flatNeumorphView"
+            style="@style/Widget.Neumorph.CardView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:neumorph_shadowElevation="7dp"
+            app:neumorph_shapeAppearance="@style/CustumShapeAppearence">
+
+            <TextView
+                android:id="@+id/flatLayerDateText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+        </soup.neumorphism.NeumorphCardView>
+
+        <TextView
+            android:id="@+id/normalLayerDateText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:background="#EDEDED"/>
+
+        <!--ここに拡張可能-->
+</RelativeLayout>
+
+

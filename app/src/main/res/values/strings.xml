@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calendar_113033906</string>
+    <string name="title_home">Home</string>
+    <string name="title_calendar">TwitterCalendar</string>
+    <string name="prev"><![CDATA[<]]></string>
+    <string name="next"><![CDATA[>]]></string>
+    <string name="Monday">Mo</string>
+    <string name="Tuesday">Tu</string>
+    <string name="Wednesday">We</string>
+    <string name="Thursday">Th</string>
+    <string name="Friday">Fr</string>
+    <string name="Saturday">Sa</string>
+    <string name="Sunday">Su</string>
+    <string name="search">search by User(@XXX)...</string>
+</resources>
