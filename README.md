@@ -38,7 +38,7 @@ oauth.accessTokenSecret=XXXXXXXXXXXXXXXX
 ```
 
 ## Design
-![imga screenshot](./images/img_a.png)  ![imgc screenshot](./images/img_c.png)  
+![imga screenshot](./images/img_a.png)  ![imgc screenshot](./images/img_c.png) ![imgi screenshot](./images/img_l.png)
 ### Neumorphism 
 - https://github.com/fornewid/neumorphism  
 - Neumorphism is a visual trend that has gained traction with UI/UX designers and become a popular aesthetic choice for contemporary software, websites, and mobile apps.
