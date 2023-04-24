@@ -125,10 +125,10 @@ public class CalendarAdapter extends BaseAdapter {
         //日曜日を赤、土曜日を青に
         int colorId;
         switch (mDateManager.getDayOfWeek(dateArray.get(position))){
-            case 1:
+            case 7:
                 colorId = Color.RED;
                 break;
-            case 7:
+            case 6:
                 colorId = Color.BLUE;
                 break;
 
