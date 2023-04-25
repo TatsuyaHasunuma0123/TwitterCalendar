@@ -5,9 +5,10 @@
 **and more** :  Auto translation of tweets
 
 
-## Demo
-[Here](https://drive.google.com/file/d/1YzpoULIvCi_bBl6aMO38xbyxH8ObpGdJ/view?usp=sharing) is a demonstration video.  
-Since this is being executed on an emulator, there will be no sound. However, if you run it on an actual device, there will be sound.
+## 🎥 Demo
+[Here](https://drive.google.com/file/d/13uIKGhTFoB1R1G2vGSxWSgBkmj4R48yu/view?usp=sharing)is a demonstration video.  
+
+Extra function is [here](https://drive.google.com/file/d/1Dp1n2y-AsZFSq-1zezrkrDRsdkBQucgy/view?usp=sharing).
 
 ## My other portfolio is here
 - 📝[Canvas](https://github.com/TatsuyaHasunuma0123/Canvas)
@@ -47,7 +48,7 @@ oauth.accessTokenSecret=XXXXXXXXXXXXXXXX
 ## Functions
 ### Get Tweets
 ![imgd screenshot](./images/img_d.png) ![imge screenshot](./images/img_e.png) ![imgg screenshot](./images/img_g.png) 
-![imgh screenshot](./images/img_h.png) ![imgi screenshot](./images/img_i.png)
+![imgh screenshot](./images/img_h.png) ![imgi screenshot](./images/img_i.png) ![imgRESIZE screenshot](./images/img_RESIZE.png)
 
 1. You can get any tweets from user name  or　hashtag.(Top of the screen)
 2. Please wate a minutes
@@ -56,7 +57,7 @@ oauth.accessTokenSecret=XXXXXXXXXXXXXXXX
 5. You can scroll window that displayed
 
 
-### Get Random Tweet  【😁 this is a bounus feature】 
+### Get Random Tweet  【😁 this is a extra function】 
   
 ![imga screenshot](./images/img_a.png) ![imgb screenshot](./images/img_b.png)  
 - Randomly retrieve Donald Trump tweets and translate them into Japanese,
