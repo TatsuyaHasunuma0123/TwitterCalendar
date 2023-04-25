@@ -71,7 +71,7 @@ public class TweetModel {
                 int i = 0;
                 try {
                     for(int j = 0; j < 15; j++) {
-                        ResponseList<twitter4j.Status> userStatus = twitter.getUserTimeline(user.getId(), new Paging(j+1, 100));
+                        ResponseList<twitter4j.Status> userStatus = twitter.getUserTimeline("ariyoshihiroiki", new Paging(j+1, 100));
                         for (twitter4j.Status status : userStatus) {
                             for(MediaEntity mediaEntity : status.getMediaEntities()) {
                                 URL = mediaEntity.getMediaURLHttps();
